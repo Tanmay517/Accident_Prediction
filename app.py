@@ -8,7 +8,7 @@ model = pk.load(open('gdc.pkl', 'rb'))
 
 st.header('Accident Severity Predictor')
 
-st.image(r"C:\Users\91842\OneDrive\Desktop\Accident prediction\crash-cars-600nw-241851808.jpg",)
+
 st.markdown(" Safety on the Road, Safe Way to Go!")
 
 #mapping categorical values to human readable values
